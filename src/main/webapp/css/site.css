@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+
+
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: coral;}
+
+table, th, td {
+  border: 1px solid;
+}
+
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
